@@ -6,11 +6,8 @@
 
 ### INFO
 
-> ✅ Fonctionne avec Discord.js
-> 🎥 Le Code de la vidéo https://youtu.be/76sD1tASIGo
+> ✅ Fonctionne avec Discord.js {} 🎥 Le Code de la vidéo https://youtu.be/76sD1tASIGo
 
 ### UTILISATION
 
-> Installer le projet
-> cd path/
-> node main.js
+> Installer le projet {} cd path/ {} node main.js
