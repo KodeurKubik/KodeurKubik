@@ -2,4 +2,5 @@
 
 - I am currently working on a Discord.JS Bot
 - I speak Frensh
-- I want to publish a free DiscordJs Bot (with the code in this profile)
+- I want to publish a free DiscordJs Bot
+- I do DJS tutorial on my YT channel
