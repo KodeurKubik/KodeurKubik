@@ -5,7 +5,7 @@ Welcome on my GitHub page ;)
   <summary><h2>My links</h2></summary>
   <h3><a href="https://www.youtube.com/channel/UCXPhNEO16dRmWsiDNG5k-mw" target="_blank">My YouTube channel</a></h3>
   <ul>
-    <li>French</li>
+    <li>French and English</li>
     <li>Minecraft videos</li>
     <li>Coding tutorials</li>
   </ul>
@@ -14,6 +14,7 @@ Welcome on my GitHub page ;)
   <ul>
     <li>French</li>
     <li>Small community</li>
+    <li>Inactive...</li>
   </ul>
   <br>
 </details>
@@ -32,7 +33,6 @@ Welcome on my GitHub page ;)
     <li>Probably coding Discord bots</li>
     <li>Probably learning more about AI</li>
     <li>Probably listening some electronic music</li>
-    <li>Probably eating something</li>
   </ul>
 </details>
 
