@@ -1,6 +1,11 @@
 Hi! I am <strong>Kubik</strong>, a French person who loves coding things :)
 
 ## Some Links
+
+-> Cool **portfolio** (with easter eggs and achievements 🙃) : **https://kodeurkubik.github.io**
+
+---
+
 My biggest project yet:
 
 **OpenVoxel Studios**: Co-founder!
