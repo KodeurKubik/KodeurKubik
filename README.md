@@ -16,8 +16,9 @@ I love programming and I'm very interested in AI and neurosciences.
 
 ---
 
-**Kursal**: Lead Dev!
-- Coming soon-ish (website & paper on 25. December)
+**Kursal**: Lead Dev! [unreleased]
+- Website: https://kursal.openvoxel.studio
+- Coding the app... expected summer 2026? hopefully
 
 ---
 
