@@ -1,11 +1,12 @@
-Hi! I am <strong>Kubik</strong>, a French person who loves coding things :)
+## Hi! Kubik here :)
 
-I love programming and I'm very interested in AI and neurosciences.
+I love programming and I'm very interested in AI and neurosciences :p
 
-## Some Links
+## Some Links & Projects
 
--> Cool **portfolio**: **https://kodeurkubik.github.io** (with easter eggs and achievements 🙃) 
-(it also lists my skills and languages I know)
+**My Portfolio**: **https://kodeurkubik.github.io** (with easter eggs and achievements 🙃) 
+
+(it also lists my skills and projects)
 
 ---
 
@@ -22,4 +23,4 @@ I love programming and I'm very interested in AI and neurosciences.
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kodeurkubik&theme=midnight-purple">
+<img src="https://github-readme-stats.hackclub.dev/api/wakatime?username=22671&api_domain=hackatime.hackclub.com&theme=dark&custom_title=Per+Language+Stats&layout=compact&cache_seconds=0&langs_count=8">
