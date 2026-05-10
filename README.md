@@ -17,8 +17,9 @@ I love programming and I'm very interested in AI and neurosciences :p
 
 ---
 
-**Kursal**: Lead Dev! [unreleased]
-- Website: https://kursal.openvoxel.studio
+**Kursal**: Founder & Dev [unreleased]
+- Github: https://github.com/KursalChat
+- Website: https://kursal.chat
 - Coding the app... expected summer 2026? hopefully
 
 ---
