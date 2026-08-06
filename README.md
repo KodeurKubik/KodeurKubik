@@ -10,17 +10,16 @@ I love programming and I'm very interested in AI and neurosciences :p
 
 ---
 
+**Kursal**: Founder & Dev
+- Github: https://github.com/KursalChat
+- Website: https://kursal.chat
+
+---
+
 **OpenVoxel Studios**: Co-founder!
 - Github: https://github.com/OpenVoxelStudios
 - Website: https://openvoxel.studio
 - Discord: https://discord.gg/Xhvb2wujVh
-
----
-
-**Kursal**: Founder & Dev [unreleased]
-- Github: https://github.com/KursalChat
-- Website: https://kursal.chat
-- Coding the app... expected summer 2026? hopefully
 
 ---
 
